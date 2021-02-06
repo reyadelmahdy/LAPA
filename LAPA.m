@@ -1,3 +1,5 @@
+%Reiad ElMahdy
+%101064879
 nx = 100;
 ny = 100;
 V = zeros(nx,ny);
